@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Heebo', sans-serif;
+}
+
+:root {
+    --clr-gold: #DCC48E;
+    --clr-beige: #EAEFD3;
+    --clr-purple: #27233A;
+}
